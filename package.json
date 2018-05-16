@@ -1,0 +1,17 @@
+{
+  "name": "moviemania-scrapper",
+  "version": "1.0.0",
+  "description": "Vamo a robar fondito",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.85.0",
+    "request-promise": "4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "necromagic": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NecroLuigi",
+  "license": "ISC"
+}
